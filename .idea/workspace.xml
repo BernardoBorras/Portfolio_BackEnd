@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Entity/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Interface/PersonaServiceInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Repository/PersonaRepositoryInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Service/ImplementPersonaService.java" afterDir="false" />
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Back end construido. &#10;&#10;Solicitudes &#10;GET,POST,DELETE,PUT&#10;Funcionando correctamente. &#10;Testeado con Postman. &#10;&#10;And changes in remote repository name.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/CExperiencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Dto/dtoExperiencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Entity/Experiencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Repository/RExperiencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/Mensaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Service/SExperiencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
