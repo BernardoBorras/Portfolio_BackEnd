@@ -9,22 +9,25 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:4200")
 public class PersonaController {
     @Autowired PersonaServiceInterface personaServiceInterface;
 
+    @GetMapping("/personas/traer/perfil")
+    public Persona findPersona(){
+        return personaServiceInterface.findPersona((long)1);
+    }
 
     // getmapping es para que nos traiga de la BD al front (hablando mal y pronto)
-    @GetMapping("personas/traer")
+    @GetMapping("/personas/traer")
     public List<Persona> getPersona(){
         return personaServiceInterface.getPersona();
     }
-
     @PostMapping("/personas/crear")
     public String createPersona(@RequestBody Persona persona){
         personaServiceInterface.savePersona(persona);
         return "persona creada exitosamente";
     }
-
     @DeleteMapping("/personas/borrar/{id}")
     public String deletePersona(@PathVariable Long id){
         personaServiceInterface.deletePersona(id);
