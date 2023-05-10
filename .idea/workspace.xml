@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy&#10;&#10;Railway">
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy&#10;&#10;Railway ruta BD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
       <workItem from="1680543186421" duration="3078000" />
       <workItem from="1683573367604" duration="10753000" />
       <workItem from="1683590895148" duration="2051000" />
+      <workItem from="1683739384694" duration="1867000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -122,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683592287762</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Deploy&#10;&#10;Railway">
+      <created>1683739778861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683739778861</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deploy&#10;&#10;Railway ruta BD">
+      <created>1683739810910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683739810910</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +159,7 @@
     <MESSAGE value="Back end Funcional&#10;&#10;Coneccion con front end funcional. Error de cors policy solucionado." />
     <MESSAGE value="Deploy&#10;&#10;Clever cloud y Railway" />
     <MESSAGE value="Deploy&#10;&#10;Railway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy&#10;&#10;Railway" />
+    <MESSAGE value="Deploy&#10;&#10;Railway ruta BD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy&#10;&#10;Railway ruta BD" />
   </component>
 </project>
