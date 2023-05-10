@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy4&#10;&#10;ruta bd railway">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" afterDir="false" />
-    </list>
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy5&#10;&#10;permiso de ruta railway" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,7 @@
       <workItem from="1680543186421" duration="3078000" />
       <workItem from="1683573367604" duration="10753000" />
       <workItem from="1683590895148" duration="2051000" />
-      <workItem from="1683739384694" duration="5245000" />
+      <workItem from="1683739384694" duration="5792000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -159,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683743447578</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Deploy5&#10;&#10;permiso de ruta railway">
+      <created>1683745327078</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683745327078</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +188,7 @@
     <MESSAGE value="Deploy&#10;&#10;Railway ruta BD" />
     <MESSAGE value="Deploy&#10;&#10;ruta bd railway" />
     <MESSAGE value="Deploy4&#10;&#10;ruta bd railway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy4&#10;&#10;ruta bd railway" />
+    <MESSAGE value="Deploy5&#10;&#10;permiso de ruta railway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy5&#10;&#10;permiso de ruta railway" />
   </component>
 </project>
