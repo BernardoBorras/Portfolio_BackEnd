@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy6&#10;&#10;prueba ruta railway">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy Front&#10;&#10;Coneccion Firebase - Railway">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <workItem from="1680543186421" duration="3078000" />
       <workItem from="1683573367604" duration="10753000" />
       <workItem from="1683590895148" duration="2051000" />
-      <workItem from="1683739384694" duration="7755000" />
+      <workItem from="1683739384694" duration="8031000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -180,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683746247807</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Deploy Front&#10;&#10;Coneccion Firebase - Railway">
+      <created>1683750505478</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683750505478</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +213,7 @@
     <MESSAGE value="Deploy4&#10;&#10;ruta bd railway" />
     <MESSAGE value="Deploy5&#10;&#10;permiso de ruta railway" />
     <MESSAGE value="Deploy6&#10;&#10;prueba ruta railway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy6&#10;&#10;prueba ruta railway" />
+    <MESSAGE value="Deploy Front&#10;&#10;Coneccion Firebase - Railway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy Front&#10;&#10;Coneccion Firebase - Railway" />
   </component>
 </project>
