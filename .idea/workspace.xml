@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy&#10;&#10;Clever cloud y Railway">
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy&#10;&#10;Railway">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1680450755439" duration="13004000" />
       <workItem from="1680543186421" duration="3078000" />
       <workItem from="1683573367604" duration="10753000" />
-      <workItem from="1683590895148" duration="1239000" />
+      <workItem from="1683590895148" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683587724864</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Deploy&#10;&#10;Railway">
+      <created>1683592287762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683592287762</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +143,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Back end Funcional&#10;&#10;Coneccion con front end funcional. Error de cors policy solucionado." />
     <MESSAGE value="Deploy&#10;&#10;Clever cloud y Railway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy&#10;&#10;Clever cloud y Railway" />
+    <MESSAGE value="Deploy&#10;&#10;Railway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy&#10;&#10;Railway" />
   </component>
 </project>
