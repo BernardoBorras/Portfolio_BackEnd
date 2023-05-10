@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-//fsdfsd
+
 @RestController
-@CrossOrigin(origins = "**")
+@CrossOrigin(origins = "http://portfoliobackend-production-2806.up.railway.app")
 public class PersonaController {
     @Autowired PersonaServiceInterface personaServiceInterface;
 

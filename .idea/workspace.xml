@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy&#10;&#10;ruta bd railway">
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="Deploy4&#10;&#10;ruta bd railway">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" afterDir="false" />
     </list>
@@ -80,7 +80,7 @@
       <workItem from="1680543186421" duration="3078000" />
       <workItem from="1683573367604" duration="10753000" />
       <workItem from="1683590895148" duration="2051000" />
-      <workItem from="1683739384694" duration="3470000" />
+      <workItem from="1683739384694" duration="5245000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -145,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683741894665</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Deploy&#10;&#10;ruta bd railway">
+      <created>1683743413990</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683743413990</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Deploy4&#10;&#10;ruta bd railway">
+      <created>1683743447578</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683743447578</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +183,7 @@
     <MESSAGE value="Deploy&#10;&#10;Railway" />
     <MESSAGE value="Deploy&#10;&#10;Railway ruta BD" />
     <MESSAGE value="Deploy&#10;&#10;ruta bd railway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy&#10;&#10;ruta bd railway" />
+    <MESSAGE value="Deploy4&#10;&#10;ruta bd railway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy4&#10;&#10;ruta bd railway" />
   </component>
 </project>
