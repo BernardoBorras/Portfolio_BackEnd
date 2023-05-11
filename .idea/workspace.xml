@@ -80,7 +80,8 @@
       <workItem from="1680543186421" duration="3078000" />
       <workItem from="1683573367604" duration="10753000" />
       <workItem from="1683590895148" duration="2051000" />
-      <workItem from="1683739384694" duration="9319000" />
+      <workItem from="1683739384694" duration="11494000" />
+      <workItem from="1683772338465" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -194,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683750748507</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Deploy Front&#10;&#10;Coneccion Firebase - Railway">
+      <created>1683752650668</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683752650668</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Deploy Front&#10;&#10;Coneccion Firebase - Railway">
+      <created>1683752886656</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683752886656</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
