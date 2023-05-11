@@ -18,7 +18,7 @@ public class PersonaController {
         return personaServiceInterface.findPersona((long)1);
     }
 
-    // getmapping es para que nos traiga de la BD al front (hablando mal y pronto)
+    // getmapping es para que nos traiga de la BD al front(hablando mal y pronto)
     @GetMapping("/personas/traer")
     public List<Persona> getPersona(){
         return personaServiceInterface.getPersona();
