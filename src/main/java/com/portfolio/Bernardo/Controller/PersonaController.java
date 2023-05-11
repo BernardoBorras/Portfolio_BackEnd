@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = "https://frontend-c845d.web.ap")
+@CrossOrigin(origins = "**")
 public class PersonaController {
     @Autowired PersonaServiceInterface personaServiceInterface;
 
@@ -33,7 +33,6 @@ public class PersonaController {
         personaServiceInterface.deletePersona(id);
     return "Persona eliminada con exito";
     }
-
 
    //  Si quiero editar un usuario ya creado.
    //  La url va quedar de la siguiente manera.
