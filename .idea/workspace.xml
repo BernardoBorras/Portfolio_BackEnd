@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="CORS&#10;&#10;Correccion de errores.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Controller/PersonaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,12 @@
       <workItem from="1683739384694" duration="11494000" />
       <workItem from="1683772338465" duration="3200000" />
       <workItem from="1683790273523" duration="3783000" />
-      <workItem from="1683842364865" duration="981000" />
+      <workItem from="1683842364865" duration="2863000" />
+      <workItem from="1683860852516" duration="1099000" />
+      <workItem from="1683862223085" duration="338000" />
+      <workItem from="1683862613773" duration="366000" />
+      <workItem from="1683863316251" duration="1191000" />
+      <workItem from="1683864584534" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -233,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683790687233</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="CORS&#10;&#10;Correccion de errores.">
+      <created>1683843385497</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683843385497</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
