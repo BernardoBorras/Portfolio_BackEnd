@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="CORS&#10;&#10;Correccion de errores.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/SecurityConfig.java" afterDir="false" />
+    <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="CORS&#10;&#10;Correccion de errores&#10;Agregando dependencias.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/Mensaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Service/SExperiencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/YoProgramo/FrontMGB/BackEnd-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,7 +94,8 @@
       <workItem from="1683862223085" duration="338000" />
       <workItem from="1683862613773" duration="366000" />
       <workItem from="1683863316251" duration="1191000" />
-      <workItem from="1683864584534" duration="846000" />
+      <workItem from="1683864584534" duration="6529000" />
+      <workItem from="1684009827302" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -245,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683843385497</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="CORS&#10;&#10;Correccion de errores&#10;Agregando dependencias.">
+      <created>1683866197261</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683866197261</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +287,7 @@
     <MESSAGE value="Deploy6&#10;&#10;prueba ruta railway" />
     <MESSAGE value="Deploy Front&#10;&#10;Coneccion Firebase - Railway" />
     <MESSAGE value="CORS&#10;&#10;Correccion de errores." />
-    <option name="LAST_COMMIT_MESSAGE" value="CORS&#10;&#10;Correccion de errores." />
+    <MESSAGE value="CORS&#10;&#10;Correccion de errores&#10;Agregando dependencias." />
+    <option name="LAST_COMMIT_MESSAGE" value="CORS&#10;&#10;Correccion de errores&#10;Agregando dependencias." />
   </component>
 </project>
