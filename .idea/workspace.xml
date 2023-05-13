@@ -7,11 +7,6 @@
     <list default="true" id="5125a972-b717-4078-ba34-c4d8c24106f4" name="Changes" comment="CORS&#10;&#10;Correccion de errores&#10;Agregando dependencias.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/Mensaje.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Security/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/Service/SExperiencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/Bernardo/WebConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,7 @@
       <workItem from="1683862613773" duration="366000" />
       <workItem from="1683863316251" duration="1191000" />
       <workItem from="1683864584534" duration="6529000" />
-      <workItem from="1684009827302" duration="279000" />
+      <workItem from="1684009827302" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1680380690354</created>
@@ -258,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683866197261</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="CORS&#10;&#10;Correccion de errores&#10;Eliminando dependencias.">
+      <created>1684010146646</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684010146646</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
